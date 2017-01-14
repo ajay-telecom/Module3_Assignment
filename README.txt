@@ -1,0 +1,2 @@
+==================================================================
+The data set cleaning and mean calculation project is part of Coursera Module 3 assignment. Fot this assignment, Data set is provided 
