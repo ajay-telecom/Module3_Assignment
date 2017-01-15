@@ -24,8 +24,8 @@ These signals were used to estimate variables of the feature vector for each pat
 
 The cleardataMeans table have 68 variables and 180 observations. From the above list, the variables are broken down to X,Y and Z axis (where applicable). For all variables the mean and Standard deviation is calculated. Mean of all these values is computed. The list of variables in the table are.
 
- Subject                           : 30 factors
- Activity                          : 6 activities (factors) with 10,299 observations-Walking,Walking Upstairs,Walking Downstairs,Sitting, Standing and Laying
+# Subject                           : 30 factors
+# Activity                          : 6 activities (factors) with 10,299 observations-Walking,Walking Upstairs,Walking Downstairs,Sitting, Standing and Laying
  # MeanTimeBodyAccMeanX              : num  0.283 0.277 0.277 0.275 0.254 ...
  # MeanTimeBodyAccMeanY              : num  -0.0178 -0.0173 -0.0169 -0.0237 -0.0072 ...
  # MeanTimeBodyAccMeanZ              : num  -0.107 -0.108 -0.105 -0.118 -0.128 ...
